@@ -38,7 +38,6 @@ Instructions
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/data-analysis-repository.git
 
 Install the required dependencies:
 bash
